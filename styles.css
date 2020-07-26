@@ -45,9 +45,9 @@ body {
  * Header
  */
 .masthead {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  color: grey;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: white;
 }
 
 
@@ -63,7 +63,7 @@ body {
 }
 
 .cover-heading{
-  margin: 2rem 0 4rem 0;
+  margin: 4rem 0 4rem 0;
   font-style: italic;
 }
 
